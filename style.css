@@ -52,7 +52,7 @@ nav .right a
     margin: 0 10px;
 }
 
-nav .right a:first-child
+nav .right a:last-child
 {
     color: var(--background-color);
     background-color: var(--text-color);
