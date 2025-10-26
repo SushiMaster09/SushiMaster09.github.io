@@ -74,24 +74,24 @@ nav .right a span
     margin: 50px 0;
     gap: 40px;
 
-    height: 400px;
+    height: 600px;
 }
 
 .hero-section .text
 {
-    align-items: center;
+    text-align: center;
     flex: 5;
 }
 
 .hero-section .text h2
 {
-    align-items: center;
+    text-align: center;
     font-size: 30px;
 }
 
 .hero-section .text .links
 {
-    align-items: center;
+    text-align: center;
     margin-top: 25px;
 }
 
