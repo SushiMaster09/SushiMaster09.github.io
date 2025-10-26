@@ -28,32 +28,11 @@
               "RelativeDocumentMoniker": "style.css",
               "ToolTip": "C:\\Users\\Sushi\\OneDrive\\Documents\\SushiMaster09.github.io\\style.css",
               "RelativeToolTip": "style.css",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAmwEkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-10-25T15:25:43.103Z",
               "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "e0311aa8-8327-4056-aa3a-54aec8cf4e35",
-        "Display": 0,
-        "X": 1110,
-        "Y": 203,
-        "Width": 695,
-        "Height": 737,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -62,7 +41,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\Sushi\\OneDrive\\Documents\\SushiMaster09.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-25T15:25:45.062Z",
               "EditorCaption": ""
