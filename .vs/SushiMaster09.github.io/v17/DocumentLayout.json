@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "style.css",
               "ToolTip": "C:\\Users\\Sushi\\OneDrive\\Documents\\SushiMaster09.github.io\\style.css",
               "RelativeToolTip": "style.css",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAHAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-10-25T15:25:43.103Z",
               "EditorCaption": ""
@@ -41,12 +41,12 @@
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "FloatingWindowState": {
-        "Id": "861796e6-422b-4fd9-b71c-bc7debd642e6",
+        "Id": "e0311aa8-8327-4056-aa3a-54aec8cf4e35",
         "Display": 0,
-        "X": 491,
-        "Y": 121,
+        "X": 1110,
+        "Y": 203,
         "Width": 695,
-        "Height": 779,
+        "Height": 737,
         "WindowState": 0
       },
       "DocumentGroups": [
