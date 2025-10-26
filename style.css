@@ -168,6 +168,18 @@ nav .right a span
     padding: 2rem;
 }
 
+.container .text
+{
+    text-align: center;
+    flex: 5;
+}
+
+.container .text h2 
+{
+    text-align: center;
+    font-size: 30px;
+}
+
 .slider-wrapper
 {
     position: relative;
