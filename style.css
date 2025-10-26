@@ -191,7 +191,7 @@ nav .right a span
 
 .container .slider-wrappers .slider-wrapper
 {
-    position: relative;
+    position: center;
     max-width: 24rem;
     margin: 10px;
 }
