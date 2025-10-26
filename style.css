@@ -175,12 +175,14 @@ nav .right a span
 {
     text-align: center;
     flex: 5;
+    margin-top: 25px;
 }
 
 .container h2 
 {
     text-align: center;
     font-size: 30px;
+    margin-top: 25px;
 }
 
 .container .slider-wrappers
@@ -188,6 +190,7 @@ nav .right a span
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    margin-top: 25px;
 }
 
 .container .slider-wrappers .slider-wrapper
