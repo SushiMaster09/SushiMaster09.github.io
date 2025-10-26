@@ -222,7 +222,7 @@ nav .right a span
 {
     display: flex;
     column-gap: 1rem;
-    position: inherit;
+    position: relative;
     bottom: 1.25rem;
     left: 50%;
     transform: translate(-50%);
