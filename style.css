@@ -165,7 +165,6 @@ nav .right a span
 
 .container
 {
-    display: flex;
     padding: 0 50px;
     margin: 50px 0;
     gap: 40px;
